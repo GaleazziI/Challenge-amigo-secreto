@@ -12,3 +12,5 @@ Invalidação: caso o usuário não coloque nenhum nome, será pedido para digit
 Visualizar a lista: todos os nomes inseridos aparecem em uma lista abaixo ao campo de digitação.
 
 Sorteio aleatório: após digitados os nomes, clique no botão de sortear e aparecerá o nome do amigo secreto.
+
+Link do desafio: https://challenge-amigo-secreto-lac-six.vercel.app/
